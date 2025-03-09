@@ -6,4 +6,6 @@ El proyecto es realizado con
 - CSS
 - JAVASCRIPT
 
-  No usammos ningun framework
+No usammos ningun framework ni librerias externas
+
+
